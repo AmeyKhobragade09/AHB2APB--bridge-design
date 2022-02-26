@@ -1,0 +1,2 @@
+# AHB2APB--bridge-design
+AHB-APB Bridge:-The AHB-APB interfaces AHB and APB. It buffers address, controls, and data from the AHB, drives the APB peripherals, and return data along with response signal to the AHB [4]. The AHB2APB interface is designed to operate when AHB and APB clocks have any combination of frequency and phase. TheAHB-APB performs transfer of data from AHB to APB for write cycle and APB to AHB for Read cycle. 
